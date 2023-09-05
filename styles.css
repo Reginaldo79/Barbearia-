@@ -1,5 +1,17 @@
-body { background: #CCCCCC;}
- h1 { text-align: center; }      
-p { text-align: center;
-background: #CCCCCC;}
-em strong { color: red: }
+body { 
+ background: #CCCCCC;
+}
+ h1 {
+  text-align: center;
+ }      
+p { 
+ text-align: center;
+background: #CCCCCC;
+}
+em strong {
+ color: red;
+}
+
+#missao { 
+font-size: 20px;
+}
